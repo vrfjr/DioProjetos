@@ -1,0 +1,33 @@
+C:\Users\vrfjunior\Documents\DioProjetos\bin\Debug\net6.0\dio projetos c#.exe
+C:\Users\vrfjunior\Documents\DioProjetos\bin\Debug\net6.0\dio projetos c#.deps.json
+C:\Users\vrfjunior\Documents\DioProjetos\bin\Debug\net6.0\dio projetos c#.runtimeconfig.json
+C:\Users\vrfjunior\Documents\DioProjetos\bin\Debug\net6.0\dio projetos c#.dll
+C:\Users\vrfjunior\Documents\DioProjetos\bin\Debug\net6.0\dio projetos c#.pdb
+C:\Users\vrfjunior\Documents\DioProjetos\obj\Debug\net6.0\dio projetos c#.csproj.AssemblyReference.cache
+C:\Users\vrfjunior\Documents\DioProjetos\obj\Debug\net6.0\dio projetos c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrfjunior\Documents\DioProjetos\obj\Debug\net6.0\dio projetos c#.AssemblyInfoInputs.cache
+C:\Users\vrfjunior\Documents\DioProjetos\obj\Debug\net6.0\dio projetos c#.AssemblyInfo.cs
+C:\Users\vrfjunior\Documents\DioProjetos\obj\Debug\net6.0\dio projetos c#.csproj.CoreCompileInputs.cache
+C:\Users\vrfjunior\Documents\DioProjetos\obj\Debug\net6.0\dio projetos c#.dll
+C:\Users\vrfjunior\Documents\DioProjetos\obj\Debug\net6.0\refint\dio projetos c#.dll
+C:\Users\vrfjunior\Documents\DioProjetos\obj\Debug\net6.0\dio projetos c#.pdb
+C:\Users\vrfjunior\Documents\DioProjetos\obj\Debug\net6.0\dio projetos c#.genruntimeconfig.cache
+C:\Users\vrfjunior\Documents\DioProjetos\obj\Debug\net6.0\ref\dio projetos c#.dll
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\bin\Debug\net6.0\dio projetos c#.exe
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\bin\Debug\net6.0\dio projetos c#.deps.json
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\bin\Debug\net6.0\dio projetos c#.runtimeconfig.json
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\bin\Debug\net6.0\dio projetos c#.dll
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\bin\Debug\net6.0\dio projetos c#.pdb
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.Common.dll
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.Common.pdb
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\obj\Debug\net6.0\dio projetos c#.csproj.AssemblyReference.cache
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\obj\Debug\net6.0\dio projetos c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\obj\Debug\net6.0\dio projetos c#.AssemblyInfoInputs.cache
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\obj\Debug\net6.0\dio projetos c#.AssemblyInfo.cs
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\obj\Debug\net6.0\dio projetos c#.csproj.CoreCompileInputs.cache
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\obj\Debug\net6.0\dio projetos c#.csproj.CopyComplete
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\obj\Debug\net6.0\dio projetos c#.dll
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\obj\Debug\net6.0\refint\dio projetos c#.dll
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\obj\Debug\net6.0\dio projetos c#.pdb
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\obj\Debug\net6.0\dio projetos c#.genruntimeconfig.cache
+C:\Users\vrfjunior\Documents\DioProjetos\ExemploFundamentos\obj\Debug\net6.0\ref\dio projetos c#.dll

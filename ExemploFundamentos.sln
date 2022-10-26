@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dio projetos c#", "ExemploFundamentos\dio projetos c#.csproj", "{9E0D8C0E-700A-4E42-BDA7-684E3C88905A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploFundamentos.Common", "ExemploFundamentos.Common\ExemploFundamentos.Common.csproj", "{ABAFA105-AEF4-47CB-B8CD-7ADC0FC460A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E0D8C0E-700A-4E42-BDA7-684E3C88905A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0D8C0E-700A-4E42-BDA7-684E3C88905A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0D8C0E-700A-4E42-BDA7-684E3C88905A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0D8C0E-700A-4E42-BDA7-684E3C88905A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAFA105-AEF4-47CB-B8CD-7ADC0FC460A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAFA105-AEF4-47CB-B8CD-7ADC0FC460A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAFA105-AEF4-47CB-B8CD-7ADC0FC460A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAFA105-AEF4-47CB-B8CD-7ADC0FC460A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
