@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 using dio_projetos_c_.ExemploFundamentos.Common.Models;
 
 
-Pessoa pessoal = new Pessoa();
-pessoal.Nome = "Vagner";
-pessoal.Idade = 29;
-pessoal.Apresentar();
+// Pessoa pessoal = new Pessoa();
+// pessoal.Nome = "Vagner";
+// pessoal.Idade = 29;
+// pessoal.Apresentar();
 
 
 
